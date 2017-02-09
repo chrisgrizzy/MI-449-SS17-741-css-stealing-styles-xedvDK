@@ -68,30 +68,18 @@ ul {
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
 }
 
-.s {
+.red {
   color: #c62d48;
 }
 
-.p {
+.blue {
   color: #56b6c2;
 }
 
-.e {
+.yellow {
   color: #c6ad00;
 }
 
-.l {
+.purple {
   color: #b400b9;
-}
-
-.u {
-  color: #c62d48;
-}
-
-.n {
-  color: #56b6c2;
-}
-
-.k {
-  color: #c62d48;
 }
